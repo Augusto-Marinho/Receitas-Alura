@@ -1,2 +1,2 @@
-# Receitas-Alura
-Projeto do curso Arquitetura CSS: descomplicando os problemas da Alura - Receitas
+# arquitetura-css
+curso de arquitetura da Alura. 
